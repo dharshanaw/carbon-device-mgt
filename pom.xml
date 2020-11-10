@@ -2079,7 +2079,7 @@
         <apache.http.compnents.core>4.4.3</apache.http.compnents.core>
 
         <!-- api-mgt handler version properties -->
-        <org.apache.synapse.version>2.1.7-wso2v7</org.apache.synapse.version>
+        <org.apache.synapse.version>3.0.1</org.apache.synapse.version>
         <org.apache.ws.security.wso2.version>1.5.11.wso2v15</org.apache.ws.security.wso2.version>
 
 		<!--carbon store version-->

@@ -1916,7 +1916,7 @@
         <automation.utils.version>4.4.2</automation.utils.version>
         <testng.version>6.8</testng.version>
         <test.automation.emm.ui.version>1.1.0</test.automation.emm.ui.version>
-        <junit.version>4.8.2</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <!--Eclipse OSGi-->
         <eclipse.equinox.common.version>3.6.100.v20120522-1841</eclipse.equinox.common.version>

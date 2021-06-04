@@ -2008,7 +2008,7 @@
         <github.openfeign.version>9.3.1</github.openfeign.version>
         <jsr311.version>1.1.1</jsr311.version>
         <commons.logging.version>1.2</commons.logging.version>
-        <apache.http.version>4.5.1</apache.http.version>
+        <apache.http.version>4.5.13</apache.http.version>
         <jersey.version>1.9</jersey.version>
 
         <!-- Neethi version-->
